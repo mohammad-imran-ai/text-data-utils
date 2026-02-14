@@ -1,0 +1,14 @@
+- Python standard:
+  __pycache__/
+  *.py[cod]
+  .env
+  .venv/
+  env/
+  venv/
+  .ipynb_checkpoints/
+  *.egg-info/
+  dist/
+  build/
+  .DS_Store
+  .pytest_cache/
+  .mypy_cache/
